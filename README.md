@@ -1,6 +1,6 @@
 #Angular JSON Schema - Example
-
-A example usigin [angular-json-schema](https://github.com/picheli20/angular-json-schema)!!
+**This is a experimental (alpha) package, do not use it for production, api is expected to change**
+A example usigin [angular-json-schema](https://github.com/TrueRest/angular-json-schema)!!
 
 ##Dependencies
 
